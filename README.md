@@ -1,10 +1,10 @@
-# Twitter Cookies Scrapper
+# Twitter Cookie Scrapper
 
-Automate obtaining Twitter cookies for authentication, using Puppeteer.
+Automate obtaining Twitter cookie for authentication, using Puppeteer.
 
 ## Introduction
 
-This Node.js script allows you to easily scrape Twitter cookies.
+This Node.js script allows you to easily scrape Twitter cookie.
 
 ## Prerequisites
 
@@ -18,13 +18,13 @@ Before running the script, make sure you have the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/dante4rt/Twitter-Cookies-Scrapper.git
+   git clone https://github.com/dante4rt/Twitter-Cookie-Scrapper.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Twitter-Cookies-Scrapper
+   cd Twitter-Cookie-Scrapper
    ```
 
 3. Install dependencies:
